@@ -78,7 +78,7 @@ São as classes concretas que implementam a interface Prototype. Elas definem a 
 Escolhi o padrão Prototype porque ele mostra de forma clara como podemos reutilizar um objeto já existente para criar novas instâncias de maneira mais simples e eficiente. Para facilitar o entendimento, usei a analogia da multiplicação celular: assim como uma célula se divide para gerar outras células semelhantes, no Prototype um objeto pode ser ‘clonado’ para criar novos objetos a partir de um modelo base.
 
 <div align="center">
-<img src="Imagens/WhatsApp Image 2026-03-25 at 13.20.26.jpeg" alt="Descrição" width="800"/>
+<img src="Imagens/WhatsApp Image 2026-03-24 at 21.11.21.jpeg" alt="Descrição" width="800"/>
 </div>
 
 
