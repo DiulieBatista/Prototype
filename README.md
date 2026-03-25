@@ -16,7 +16,7 @@ acessar campos privados de outros objetos que pertençam a mesma classe.Um objet
 
 
  <div align="center">
-<img src="Imagens/WhatsApp Image 2026-03-24 at 20.44.57.jpeg" alt="Descrição" width="800"/>
+<img src="Imagens/WhatsApp Image 2026-03-24 at 20.44.57 (1).jpeg" alt="Descrição" width="800"/>
 </div>
 
   ---------------------------------------------
