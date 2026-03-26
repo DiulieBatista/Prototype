@@ -52,7 +52,7 @@ Essa estrutura permite que o cliente crie novos objetos sem depender diretamente
 
 
  <div align="center">
-<img src="Imagens/WhatsApp Image 2026-03-25 at 13.25.35.jpeg" alt="Descrição" width="800"/>
+<img src="Imagens/WhatsApp Image 2026-03-25 at 13.25.36.jpeg" alt="Descrição" width="800"/>
 </div>
 
 
