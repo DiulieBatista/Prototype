@@ -28,7 +28,7 @@ Em muitos sistemas, a criação de objetos pode envolver múltiplas configuraç�
 O padrão Prototype surge como uma solução para esse cenário, permitindo que novos objetos sejam criados a partir da clonagem de uma instância previamente configurada. Dessa forma, o sistema evita a repetição de processos de inicialização, tornando a criação de novas instâncias mais rápida, eficiente e consistente, além de contribuir para um código mais organizado e de fácil manutenção.
 
  <div align="center">
-<img src="Imagens/WhatsApp Image 2026-03-25 at 13.10.52.jpeg" alt="Descrição" width="800"/>
+<img src="Imagens/WhatsApp Image 2026-03-25 at 13.10.53.jpeg" alt="Descrição" width="800"/>
 </div>
 
 
