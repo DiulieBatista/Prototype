@@ -104,7 +104,7 @@ Por outro lado, quando os objetos possuem estruturas internas mais complexas ou 
 
 
  <div align="center">
-<img src="Imagens/WhatsApp Image 2026-03-25 at 13.14.22.jpeg" alt="Descrição" width="800"/>
+<img src="Imagens/WhatsApp Image 2026-03-25 at 13.20.27.jpeg" alt="Descrição" width="800"/>
 </div>
 
 ----------------------------------------------------------
